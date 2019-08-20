@@ -1,2 +1,2 @@
-# Homework-2
-VBA - Stocks
+# Visual Basic - Stocks
+Homework 2
